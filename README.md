@@ -42,37 +42,37 @@ The website features an attractive space-themed design with glassmorphism effect
 
 ### 🏠 Home Section
 
-![Home Section](screenshots/home.png)
+![Home Section](home.png)
 
 ---
 
 ### 🌍 About Space Exploration
 
-![About Section](screenshots/about.png)
+![About Section](about.png)
 
 ---
 
 ### 🪐 Solar System Section
 
-![Planets Section](screenshots/planets.png)
+![Planets Section](planets.png)
 
 ---
 
 ### 🌌 Milky Way Galaxy Section
 
-![Galaxy Section](screenshots/galaxy.png)
+![Galaxy Section](galaxy.png)
 
 ---
 
 ### 🚀 Milestones in Space Exploration
 
-![Missions Section](screenshots/missions.png)
+![Missions Section](missions.png)
 
 ---
 
 ### 📩 Contact Section
 
-![Contact Section](screenshots/contact.png)
+![Contact Section](contact.png)
 
 ---
 
@@ -167,7 +167,7 @@ Through this project, the following concepts were implemented:
 
 **Project:** SpaceXplore – Explore Beyond The Stars
 
-Developed as part of the Internship Task 3 submission.
+Developed as part of the Internship Task 2 submission.
 
 ---
 
